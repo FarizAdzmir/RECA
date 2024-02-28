@@ -33,8 +33,8 @@ export default function Hero() {
               viewport={{ once: false, amount: 0.6 }}
               className='h1'
             >
-              Explore the Finest <span className='text-accent'>Global</span>{' '}
-              Offers
+              Better Than Buying <span className='text-accent'>Rent</span>{' '}
+              With Us
             </motion.h1>
             <motion.p
               variants={fadeIn('down', 0.4)}
