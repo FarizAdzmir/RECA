@@ -1,34 +1,27 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Release V.0.3
 
-## Getting Started
+<div align='center'>
+<img src='https://github.com/FarizAdzmir/RECA/blob/main/public/images/RECA.webp'/>
 
-First, run the development server:
+</div>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+<h2>About the project</h2>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+  <p><b>RECA Rentals</b> is an online platform that offers car rental services. Users can browse through a variety of vehicles and select the one that best suits their needs. The site provides detailed information about each vehicle, including its features, specifications, and rental rates.</p>
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+👉 Live Demo: <a href='https://reca-rentals.vercel.app/'>RECA Rentals</a>
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+<h3>Build with:</h3>
 
-## Learn More
+» NextJS <br>
+» Tailwind CSS <br>
+» Framer Motion
 
-To learn more about Next.js, take a look at the following resources:
+<h3>Profile</h3>
+<div>
+  <p>&bull; Portfolio: <a href="https://farizul.vercel.app/">https://farizul.vercel.app/</a></p>
+  <p>&bull; Email: farizulhilmy7@gmail.com</p>
+  <p>&bull; LinkedIn: <a href="https://www.linkedin.com/in/farizulhilmy/">https://www.linkedin.com/in/farizulhilmy/</a></p>
+</div>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
