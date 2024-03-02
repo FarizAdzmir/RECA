@@ -66,7 +66,7 @@ export default function Footer() {
               </h3>
               <ul className="flex flex-col gap-y-4 font-semibold">
                 <li>
-                  <a href="">New York</a>
+                  <a href="">Kuala Lumpur</a>
                 </li>
                 <li>
                   <a href="">Careers</a>
