@@ -1,5 +1,3 @@
-Release V.0.3
-
 <div align='center'>
 <img src='https://github.com/FarizAdzmir/RECA/blob/main/public/images/RECA.webp'/>
 
@@ -23,5 +21,3 @@ Release V.0.3
   <p>&bull; Email: farizulhilmy7@gmail.com</p>
   <p>&bull; LinkedIn: <a href="https://www.linkedin.com/in/farizulhilmy/">https://www.linkedin.com/in/farizulhilmy/</a></p>
 </div>
-
-
